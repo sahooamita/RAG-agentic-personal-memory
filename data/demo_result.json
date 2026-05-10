@@ -1,0 +1,46 @@
+{
+  "query": "What meetings do I have this week?",
+  "answer": "This week you have the following meetings:\n\n* **Meeting Notes \u2014 Unleash Real-Time E-Markets**\n* **Meeting Notes \u2014 Benchmark Proactive Infrastructures** \n* **Meeting Notes \u2014 Drive Ubiquitous Users** \n\n\nLet me know if you'd like me to help you with anything else!",
+  "sources": [
+    {
+      "text": "Attendees: Andrea, Christopher, Victoria. Agenda: product roadmap. Decisions: migrate to the new stack. Action items: update documentation.",
+      "metadata": {
+        "doc_id": "508e7b94-d15e-4353-8b31-2e5eb12da2f3",
+        "chunk_index": 0,
+        "title": "Meeting Notes \u2014 Unleash Real-Time E-Markets",
+        "doc_type": "meeting"
+      },
+      "distance": 0.5784515142440796
+    },
+    {
+      "text": "Attendees: Paul, Elizabeth. Agenda: architecture review. Decisions: migrate to the new stack. Action items: create JIRA tickets.",
+      "metadata": {
+        "doc_type": "meeting",
+        "doc_id": "f4f28e86-2948-4074-8591-da015d6ce153",
+        "chunk_index": 0,
+        "title": "Meeting Notes \u2014 Benchmark Proactive Infrastructures"
+      },
+      "distance": 0.6090975999832153
+    },
+    {
+      "text": "Reflecting on the week: it was a rollercoaster. Next week I want to focus on health habits.",
+      "metadata": {
+        "doc_id": "cc8f0d4e-779f-45f9-aa29-f4472cf69b1f",
+        "title": "Diary Entry \u2014 2026-03-03",
+        "doc_type": "diary",
+        "chunk_index": 0
+      },
+      "distance": 0.6556790471076965
+    },
+    {
+      "text": "1:1 with Linda. Discussed health habits. Feedback: improve communication. Follow-up: send recap email.",
+      "metadata": {
+        "doc_id": "79a95c9a-550c-4959-9ebf-795e65b1b1db",
+        "chunk_index": 0,
+        "title": "Meeting Notes \u2014 Drive Ubiquitous Users",
+        "doc_type": "meeting"
+      },
+      "distance": 0.6561369299888611
+    }
+  ]
+}
